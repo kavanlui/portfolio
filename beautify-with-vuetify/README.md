@@ -1,4 +1,4 @@
-# Import Success
+# Cloned from https://github.com/kavanlui/beautify-with-vuetify.git
 
 # Beautify with Vuetify
 
