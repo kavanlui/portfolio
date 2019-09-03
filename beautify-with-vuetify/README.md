@@ -1,4 +1,4 @@
-# Import Success 1
+# Import Success
 
 # Beautify with Vuetify
 
