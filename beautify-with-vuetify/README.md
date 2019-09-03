@@ -1,6 +1,6 @@
 # Cloned from https://github.com/kavanlui/beautify-with-vuetify.git
 
-# Learning GIT version controls - SUCCESS 2
+# Learning GIT version controls - SUCCESS 230
 
 # Beautify with Vuetify
 
